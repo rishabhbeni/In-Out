@@ -54,4 +54,4 @@ jobs:
           app-name: 'rishabhbeni'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_001C511C2CAF4DCCA838AF9CCF52047A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5516F58C4C874DFF9FB5B4AB1E1DDDC7 }}
